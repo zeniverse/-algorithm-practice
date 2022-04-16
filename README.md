@@ -26,3 +26,15 @@ zezering2192](http://mazassumnida.wtf/api/v2/generate_badge?boj=zezering2192)](h
   
 </div>
 </details>
+
+<details>
+<summary>2. 반복문</summary>
+<div markdown="1">
+
+#### [1330](https://www.acmicpc.net/problem/1330) 두 수 비교하기
+#### [9498](https://www.acmicpc.net/problem/9498) 시험 성적
+#### [2753](https://www.acmicpc.net/problem/2753) 윤년
+#### [14681](https://www.acmicpc.net/problem/14681) 사분면 고르기
+  
+</div>
+</details>
