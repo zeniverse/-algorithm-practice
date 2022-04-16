@@ -28,13 +28,40 @@ zezering2192](http://mazassumnida.wtf/api/v2/generate_badge?boj=zezering2192)](h
 </details>
 
 <details>
-<summary>2. 반복문</summary>
+<summary>2. 조건문</summary>
 <div markdown="1">
 
 #### [1330](https://www.acmicpc.net/problem/1330) 두 수 비교하기
 #### [9498](https://www.acmicpc.net/problem/9498) 시험 성적
 #### [2753](https://www.acmicpc.net/problem/2753) 윤년
 #### [14681](https://www.acmicpc.net/problem/14681) 사분면 고르기
+#### [2884](https://www.acmicpc.net/problem/2884) 알람 시계
+#### [2525](https://www.acmicpc.net/problem/2525) 오븐 시계
+#### [2480](https://www.acmicpc.net/problem/2480) 주사위 세개
+  
+</div>
+</details>
+
+
+<details>
+<summary>3. 반복문</summary>
+<div markdown="1">
+
+#### [2739](https://www.acmicpc.net/problem/2739) 구구단
+#### [10950](https://www.acmicpc.net/problem/10950) A+B -3
+#### [8393](https://www.acmicpc.net/problem/8393) 합
+#### [15552](https://www.acmicpc.net/problem/15552) 빠른 A+B
+#### [2741](https://www.acmicpc.net/problem/2741) N 찍기
+#### [2742](https://www.acmicpc.net/problem/2742) 기찍 N
+#### [11021](https://www.acmicpc.net/problem/11021) A+B -7
+#### [11022](https://www.acmicpc.net/problem/11022) A+B -8
+#### [2438](https://www.acmicpc.net/problem/2438) 별 찍기 - 1
+#### [2439](https://www.acmicpc.net/problem/2439) 별 찍기 - 2
+#### [10871](https://www.acmicpc.net/problem/10871) X보다 작은 수
+#### [10952](https://www.acmicpc.net/problem/10952) A+B -5
+#### [10951](https://www.acmicpc.net/problem/10951) A+B -4  
+#### [1110](https://www.acmicpc.net/problem/1110) 더하기사이클 
+  
   
 </div>
 </details>
