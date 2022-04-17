@@ -80,3 +80,17 @@ zezering2192](http://mazassumnida.wtf/api/v2/generate_badge?boj=zezering2192)](h
   
 </div>
 </details>
+
+
+
+
+
+<details>
+<summary>5. 함수</summary>
+<div markdown="1">
+
+#### [4673](https://www.acmicpc.net/problem/4673) 셀프 넘버 (다시 풀어보기 22.04.17)
+#### [1065](https://www.acmicpc.net/problem/1065) 한수 (다시 풀어보기 22.04.17)
+  
+</div>
+</details>
