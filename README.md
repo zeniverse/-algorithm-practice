@@ -65,3 +65,18 @@ zezering2192](http://mazassumnida.wtf/api/v2/generate_badge?boj=zezering2192)](h
   
 </div>
 </details>
+
+<details>
+<summary>4. 1차원 배열 단계</summary>
+<div markdown="1">
+
+#### [10818](https://www.acmicpc.net/problem/10818) 최소, 최대
+#### [2562](https://www.acmicpc.net/problem/2562) 최댓값
+#### [2577](https://www.acmicpc.net/problem/2577) 숫자의 개수
+#### [3052](https://www.acmicpc.net/problem/3052) 나머지
+#### [1546](https://www.acmicpc.net/problem/1546) 평균
+#### [8958](https://www.acmicpc.net/problem/8958) OX퀴즈
+#### [4344](https://www.acmicpc.net/problem/4344) 평균은 넘겠지
+  
+</div>
+</details>
