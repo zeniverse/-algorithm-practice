@@ -82,15 +82,31 @@ zezering2192](http://mazassumnida.wtf/api/v2/generate_badge?boj=zezering2192)](h
 </details>
 
 
-
-
-
 <details>
 <summary>5. 함수</summary>
 <div markdown="1">
 
 #### [4673](https://www.acmicpc.net/problem/4673) 셀프 넘버 (다시 풀어보기 22.04.17)
 #### [1065](https://www.acmicpc.net/problem/1065) 한수 (다시 풀어보기 22.04.17)
+  
+</div>
+</details>
+
+
+<details>
+<summary>6. 문자열</summary>
+<div markdown="1">
+
+#### [11654](https://www.acmicpc.net/problem/11654) 아스키 코드
+#### [11720](https://www.acmicpc.net/problem/11720) 숫자의 합
+#### [10809](https://www.acmicpc.net/problem/10809) 알파벳 찾기
+#### [2675](https://www.acmicpc.net/problem/2675) 문자열 반복
+#### [1157](https://www.acmicpc.net/problem/1157) 단어 공부
+#### [1152](https://www.acmicpc.net/problem/1152) 단어의 개수
+#### [2908](https://www.acmicpc.net/problem/2908) 상수
+#### [5622](https://www.acmicpc.net/problem/5622) 다이얼
+#### [2941](https://www.acmicpc.net/problem/2941) 크로아티아 알파벳
+#### [1316](https://www.acmicpc.net/problem/1316) 그룹 단어 체커
   
 </div>
 </details>
