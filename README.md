@@ -150,3 +150,16 @@ zezering2192](http://mazassumnida.wtf/api/v2/generate_badge?boj=zezering2192)](h
 </div>
 </details>
 
+
+<details>
+<summary>9. 재귀</summary>
+<div markdown="1">
+
+#### [10872](https://www.acmicpc.net/problem/10872) 팩토리얼 (다시 풀어보기 22.04.19)
+#### [10870](https://www.acmicpc.net/problem/10870) 피보나치 수 5
+#### [2447](https://www.acmicpc.net/problem/2447) 별 찍기 - 10 
+#### [11729](https://www.acmicpc.net/problem/11729) 하노이 탑 이동 순서 (다시 풀어보기 22.04.19)
+  
+</div>
+</details>
+
