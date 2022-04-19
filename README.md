@@ -128,3 +128,25 @@ zezering2192](http://mazassumnida.wtf/api/v2/generate_badge?boj=zezering2192)](h
   
 </div>
 </details>
+
+
+
+<details>
+<summary>8. 기본 수학2</summary>
+<div markdown="1">
+
+#### [1978](https://www.acmicpc.net/problem/1978) 소수 찾기
+#### [2581](https://www.acmicpc.net/problem/2581) 소수
+#### [11653](https://www.acmicpc.net/problem/11653) 소인수분해 
+#### [1929](https://www.acmicpc.net/problem/1929) 소수 구하기
+#### [4948](https://www.acmicpc.net/problem/4948) 베르트랑 공준 (다시 풀어보기 22.04.19)
+#### [9020](https://www.acmicpc.net/problem/9020) 골드바흐의 추측 (다시 풀어보기 22.04.19)
+#### [1085](https://www.acmicpc.net/problem/1085) 직사각형에서 탈출
+#### [3009](https://www.acmicpc.net/problem/3009) 네 번째 점
+#### [4153](https://www.acmicpc.net/problem/4153) 직각삼각형
+#### [3053](https://www.acmicpc.net/problem/3053) 택시 기하학 (다시 풀어보기 22.04.19)
+#### [1002](https://www.acmicpc.net/problem/1002) 터렛 (다시 풀어보기 22.04.19)
+  
+</div>
+</details>
+
