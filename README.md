@@ -163,3 +163,16 @@ zezering2192](http://mazassumnida.wtf/api/v2/generate_badge?boj=zezering2192)](h
 </div>
 </details>
 
+<details>
+<summary>10. 브루트 포스</summary>
+<div markdown="1">
+
+#### [2798](https://www.acmicpc.net/problem/2798) 블랙잭
+#### [2231](https://www.acmicpc.net/problem/2231) 분해합 (다시 풀어보기 22.04.20)
+#### [7568](https://www.acmicpc.net/problem/7568) 덩치
+#### [1018](https://www.acmicpc.net/problem/1018) 체스판 다시 칠하기 (다시 풀어보기 22.04.20)
+#### [1436](https://www.acmicpc.net/problem/1436) 영화감독 숌 (다시 풀어보기 22.04.20)
+  
+</div>
+</details>
+
