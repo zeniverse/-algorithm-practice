@@ -176,3 +176,20 @@ zezering2192](http://mazassumnida.wtf/api/v2/generate_badge?boj=zezering2192)](h
 </div>
 </details>
 
+<details>
+<summary>11. 정렬</summary>
+<div markdown="1">
+
+#### [2750](https://www.acmicpc.net/problem/2750) 수 정렬하기
+#### [10989](https://www.acmicpc.net/problem/10989) 수 정렬하기 3
+#### [2108](https://www.acmicpc.net/problem/2108) 통계학 (다시 풀어보기 22.04.20)
+#### [1427](https://www.acmicpc.net/problem/1427) 소트인사이드
+#### [11650](https://www.acmicpc.net/problem/11650) 좌표 정렬하기
+#### [11651](https://www.acmicpc.net/problem/11651) 좌표 정렬하기 2
+#### [1181](https://www.acmicpc.net/problem/1181) 단어 정렬
+#### [10814](https://www.acmicpc.net/problem/10814) 나이순 정렬
+#### [18870](https://www.acmicpc.net/problem/18870) 좌표 압축 (다시 풀어보기 22.04.20)
+  
+</div>
+</details>
+
