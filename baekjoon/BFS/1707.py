@@ -35,3 +35,5 @@ for _ in range(int(input())):
                 break
 
     print('YES' if flag == 1 else 'NO')
+
+## dfs 버전으로도 해보기
