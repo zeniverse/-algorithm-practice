@@ -39,20 +39,23 @@ for y in [0, n-1]: # 맨 위, 맨 아래 줄 탐색
     for x in range(m):
         if arr[y][x]:
             total += 2
-
+            # 맨 위 오른쪽 or 맨 아래 왼쪽은 1m씩 추가되므로 1씩 빼준다 (추가 조건 3번)
             if (y==0 and x==m-1) or (y==n-1 and x==0):
                 total -= 1
 
         elif arr[y][x]==0 and not visited[y][x]:
+            # 바깥쪽 '0'칸이라면 dfs를 통해 탐색
             total += dfs(y, x)
 
 
 for y in range(n): # 맨 오른쪽, 맨 왼쪽 줄 탐색
     for x in [0, m-1]:
         if arr[y][x] :
-            if (x==0 and y%2) or (x==m-1 and y%2==0):
+            # 오른쪽 홀수칸, 왼쪽 짝수칸은 3m씩 추가 (추가 조건 2번)
+            if (x==0 and y%2 == 1) or (x==m-1 and y%2==0):
                 total +=3
             else:
+                # 왼쪽 홀수칸, 오른쪽 짝수칸은 1m씩 추가 (추가 조건 1번)
                 total += 1
 
         elif arr[y][x]==0 and not visited[y][x]:
