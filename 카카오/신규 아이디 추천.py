@@ -37,9 +37,8 @@ if new_id[-1] == '.':
     new_id = new_id[:-1]
 
 # 7단계
-if len(new_id) <= 2:
-    while len(new_id) < 3:
-        new_id += new_id[-1]
+while len(new_id) < 3:
+    new_id += new_id[-1]
 
 
 print(new_id)
