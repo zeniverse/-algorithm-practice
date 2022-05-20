@@ -23,10 +23,6 @@ def solution(new_id):
             res = res[1:]
     if res[-1] == '.':
         res = res[:-1]
-
-    elif res[-1] == '.':
-        res = res[:-1]
-
     #5
     if res == '':
         res = 'a'
