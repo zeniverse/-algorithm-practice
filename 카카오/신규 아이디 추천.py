@@ -18,9 +18,8 @@ while '..' in new_id:
     new_id = new_id.replace('..', '.')
 
 # 4단계
-if new_id:
-    if new_id[0] == '.':
-        new_id = new_id[1:]
+if new_id[0] == '.':
+    new_id = new_id[1:]
 
 if new_id:
     if new_id[-1] == '.':
