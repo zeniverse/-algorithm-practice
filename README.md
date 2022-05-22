@@ -214,3 +214,23 @@ zezering2192](http://mazassumnida.wtf/api/v2/generate_badge?boj=zezering2192)](h
 
 </div>
 </details>
+
+
+
+<br><br>
+### ● 기출문제
+<details>
+<summary>1. 카카오 </summary>
+<div markdown="1">
+
+  
+  - 2022 KAKAO 블라인드 채용
+    #### [신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334)
+
+  - 2021 KAKAO 블라인드 채용
+    #### [신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)
+
+</div>
+</details>
+
+
