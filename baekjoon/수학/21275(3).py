@@ -3,7 +3,6 @@ input = sys.stdin.readline
 
 a, b = input().split()
 
-num_dict = dict()
 nums = "0123456789abcdefghijklmnopqrstuvwxyz"
 count = 0
 res = []
