@@ -235,6 +235,7 @@ zezering2192](http://mazassumnida.wtf/api/v2/generate_badge?boj=zezering2192)](h
   
   - 2022 KAKAO 블라인드 채용
     #### [신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334)
+    #### [k진수에서 소수 개수 구하기](https://programmers.co.kr/learn/courses/30/lessons/92335)
 
   - 2021 KAKAO 블라인드 채용
     #### [신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)
