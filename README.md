@@ -239,6 +239,11 @@ zezering2192](http://mazassumnida.wtf/api/v2/generate_badge?boj=zezering2192)](h
 
   - 2021 KAKAO 블라인드 채용
     #### [신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)
+  
+  - 2021 KAKAO 인턴십
+    #### [숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301)
+    #### [거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302)
+  
 
 </div>
 </details>
