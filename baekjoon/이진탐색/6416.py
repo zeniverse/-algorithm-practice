@@ -82,8 +82,8 @@ while True:
             root = []
             arr = []
             edgeCount = 0
-            
-            
+
+
             break
         
         trees[arr[i]].append(arr[i + 1])
