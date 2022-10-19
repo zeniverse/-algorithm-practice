@@ -1,5 +1,6 @@
-n = 15
+slice = 7
+n = 10
 
-d, m = divmod(n, 7)
+d, m = divmod(n, slice)
 
 print(d + int(m != 0))
