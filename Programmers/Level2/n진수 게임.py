@@ -1,24 +1,25 @@
+import string
 
+# 진법, 미리 구할 숫자의 갯수, 게임에 참가하는 인원, 튜브 순서
+n, t, m, p = 16, 16, 2, 1
+
+# 진법 변환
+tmp = string.digits + string.ascii_uppercase
 def convert(num, base):
-    temp = "0123456789ABCDEF"
     q, r = divmod(num, base)
-
     if q == 0:
-        return temp[r]
+        return tmp[r]
     else:
-        # q를 base로 변환
-        # 즉, n진수의 다음 자리를 구함
-        return convert(q, base) + temp[r]
-    
+        return convert(q, base) + tmp[r]
+
+
 def solution(n, t, m, p):
-    answer = ''
-    test = ''
+    res = ''
+    num = ''
+
+    for i in range(0, t * m + 1):
+        num += convert(i, n)
     
-    for i in range(m*t):
-        test += str(convert(i, n))
-        
-    while len(answer) < t:
-        answer += test[p-1]
-        p += m
-        
-    return answer
+    return ''.join(num[p-1::m][:t])
+
+print(solution(n, t, m, p))
