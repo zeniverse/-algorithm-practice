@@ -10,6 +10,7 @@ def solution(k, ranges):
         newK = (k // 2) if k % 2 == 0 else (k * 3) + 1
 
         # 0 부터 newK 까지의 정적분 넓이
+        # 범위를 반으로 잘라 아래 사각형 + 위에 삼각형 넓이 합으로 그래프의 넓이를 구한다
         minY, maxY = min(k, newK), max(k, newK)
         inttegralArea.append(inttegralArea[-1] + (minY + (1/2) * (maxY - minY)))
 
