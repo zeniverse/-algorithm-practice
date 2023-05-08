@@ -1,0 +1,8 @@
+
+def solution(arr):
+    if 2 not in arr:
+        return [-1]
+    return arr[arr.index(2): len(arr) - arr[::-1].index(2)]
+
+arr = [1, 2, 1, 2, 1, 10, 2, 1]
+print(solution(arr))
