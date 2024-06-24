@@ -1,0 +1,9 @@
+
+
+arr1 = [[1,2],[2,3]]
+arr2 = [[3,4],[5,6]]
+
+def solution(arr1, arr2):
+    return [[c + d for c, d in zip(a, b)] for a, b in zip(arr1, arr2)]
+
+print(solution(arr1, arr2))
