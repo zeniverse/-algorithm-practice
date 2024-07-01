@@ -3,27 +3,13 @@ n = 4
 left = 7
 right = 14
 
-arr = []
+def solution(n, left, right):
+    answer = []
 
-x = (left // n) + 1
-y = (left % n) + 1
+    for i in range(left, right + 1):
+        q, r = divmod(i, n)
+        answer.append(max(q, r) + 1)
 
-end_x = (right // n) + 1
-end_y = (right % n) + 1
+    return answer
 
-
-while True:
-
-    if x == end_x and y == end_y:
-        arr.append(max(x, y))
-        break
-
-    arr.append(max(x, y))
-
-    y += 1
-
-    if y >= n + 1:
-        y %= n
-        x += 1
-
-print(arr)
+print(solution(n, left, right))
