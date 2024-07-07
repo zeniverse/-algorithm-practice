@@ -1,4 +1,6 @@
 
+# 누적합 사용(이중 for문 X)
+
 def convert(time):
     h, m = time.split(":")
     return int(h) * 60 + int(m)
